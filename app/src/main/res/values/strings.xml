@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Joke Bot</string>
+    <string name="joke_text">Tell me a joke</string>
+    <string name="please_wait">Please wait...</string>
+</resources>
